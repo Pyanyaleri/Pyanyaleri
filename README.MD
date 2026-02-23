@@ -1,4 +1,4 @@
-<!--- TheJollyDuck --->
+<!--- Pyanyaleri --->
 <!--- README.MD    --->
 
 # Hey, Welcome!
@@ -10,7 +10,7 @@ In terms of hobbies, I quite like messing with Mod Trackers like OpenMPT, and do
 
 ## Links To My Other Stuff
 
-- [My Website](https://thejollyduck.neocities.org/)
+- [My Website](https://pyanyaleri.neocities.org/)
 
 ## Other Interesting Stuff I've Worked On
 
